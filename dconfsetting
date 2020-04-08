@@ -1,0 +1,4 @@
+## /etc/dconf/db/site.d/00_site_settings
+[org/gnome/shell]
+enabled-extensions=['apps-menu@gnome-shell-extensions.gcampax.github.com']
+enable-hot-corners=true
